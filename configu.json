@@ -1,0 +1,20 @@
+{
+    "layer1": {
+        "openaiKey": "sk-zUogJSIUqZIxSFpITMBOT3BlbkFJNgDRiFOPEiQiOQJ1gGPdey",
+        "layer1URL": "https://capria-rfx700t4.weaviate.network",
+        "layer1DriveURL": "https://drive.google.com/drive/u/0/folders/1nn6_M2nfQT_sX2g4C3gCQm5y_W1r-YN_",
+        "layer1AuthKey": "qwergh",
+        "classNamelayer1": "qaz",
+        "process_image": true,
+        "layer1SliderValue": 0
+    },
+    "layer2": {
+        "openaiKey": "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",
+        "layer2URL": "https://ddbot-xb8fg5ka.weaviate.network",
+        "layer2DriveURL": "https://drive.google.com/drive/u/0/folders/1E9uInAIQkXGVWji_ptGu0ockTk",
+        "layer2AuthKey": "RjNmwMDv2c4OgsZuV8jC4o7wa5GwleywaSyZ",
+        "classNamelayer2": "afsdfasf",
+        "process_image": false,
+        "layer2SliderValue": 0
+    }
+}

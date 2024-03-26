@@ -1,0 +1,20 @@
+{
+    "\\assertive_page_1.png 0": "Error: 401, Message: ",
+    "\\assertive_page_1.png 1": "{",
+    "\\assertive_page_1.png 2": "\"error\": {",
+    "\\assertive_page_1.png 3": "\"message\": \"Incorrect API key provided: sk-zUogJ*****************************************Pdey. You can find your API key at https://platform.openai.com/account/api-keys.\",",
+    "\\assertive_page_1.png 4": "\"type\": \"invalid_request_error\",",
+    "\\assertive_page_1.png 5": "\"param\": null,",
+    "\\assertive_page_1.png 6": "\"code\": \"invalid_api_key\"",
+    "\\assertive_page_1.png 7": "}",
+    "\\assertive_page_1.png 8": "}",
+    "\\Assignment-3_page_1.png 0": "Error: 401, Message: ",
+    "\\Assignment-3_page_1.png 1": "{",
+    "\\Assignment-3_page_1.png 2": "\"error\": {",
+    "\\Assignment-3_page_1.png 3": "\"message\": \"Incorrect API key provided: sk-zUogJ*****************************************Pdey. You can find your API key at https://platform.openai.com/account/api-keys.\",",
+    "\\Assignment-3_page_1.png 4": "\"type\": \"invalid_request_error\",",
+    "\\Assignment-3_page_1.png 5": "\"param\": null,",
+    "\\Assignment-3_page_1.png 6": "\"code\": \"invalid_api_key\"",
+    "\\Assignment-3_page_1.png 7": "}",
+    "\\Assignment-3_page_1.png 8": "}"
+}
